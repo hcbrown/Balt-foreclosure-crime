@@ -30,3 +30,6 @@ My analysis prioritizes examination of foreclosure effects that decline with dis
 
 Even taking these caveats into consideration, my findings are strongly suggestive of a causal distance-decay effect of foreclosures on property crime and, to a lesser extent, violent crime. My results also intimate that foreclosures not only lead to elevated crime in their immediate vicinity, but also to more modest increases up to a kilometer away. The estimated effects are relatively small, and their magnitude and significance are greater for property crimes than for violent crimes. Nevertheless, these findings provide additional impetus for policy initiatives that aim to reduce foreclosures as a way of curbing the negative externalities associated with them.
 
+** Please check out the full paper for sources, background information, appendices, and more!
+
+
